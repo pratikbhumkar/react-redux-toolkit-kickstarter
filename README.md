@@ -1,6 +1,6 @@
 ### React Redux tutorial (Also a part of kick starter)
 
-Simple react app with redux to practice Redux 4
+Simple react app to demonstrate Redux 4 skills
 
 ## Usage instructions
 
